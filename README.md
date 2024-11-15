@@ -1,3 +1,6 @@
+
+![youtube-clone - Overview – Vercel - Google Chrome 11_15_2024 3_33_58 PM](https://github.com/user-attachments/assets/3809e848-4897-4d4c-95cb-d113a15bd0ee)
+
 ## <a name="introduction"> Introduction</a>
 
 This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
